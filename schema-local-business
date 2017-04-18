@@ -1,0 +1,12 @@
+<div itemscope itemtype="http://schema.org/LocalBusiness">
+<a href="WEBSITE URL" itemprop="url">
+<span itemprop="name">BUSINESS NAME</span></a>
+<span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress"><span itemprop="streetAddress">STREET ADDRESS</span>
+<span itemprop="addressLocality">CITYn</span>, <span itemprop="addressRegion">STATE</span> <span itemprop="postalCode">POSTAL CODE</span></span>
+Tel: <span itemprop="telephone">TELEPHONE</span>
+Price Range: <span itemprop="priceRange">$$</span>
+<img itemprop="image" src="IMAGE URL" alt="ALT TEXT FOR IMAGE" height="60" width="60"/></div>
+<a href="GOOGLE MAPS URL" target="_blank" itemprop="hasMap">Find us on Google Maps</a>
+<div itemtype="http://schema.org/GeoCoordinates" itemprop="geo" itemscope>
+<meta itemprop="latitude" content="LATITUDE"/>
+<meta itemprop="longitude" content="LONGITUDE"/></div>
